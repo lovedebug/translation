@@ -131,6 +131,36 @@
     },
     "POPUP_TITLE": "近期通知"
   },
+  "ONBOARDING": {
+    "SIDEBAR": {
+      "INITIAL": {
+        "0": {
+          "TITLE": "创建文件夹"
+        },
+        "1": {
+          "TITLE": "添加项目符号"
+        },
+        "2": {
+          "TITLE": "创建记忆卡片"
+        },
+        "3": {
+          "TITLE": "使用 Tab 键结构化笔记"
+        },
+        "PAGE_0": {
+          "TITLE": "创建文件夹"
+        },
+        "PAGE_1": {
+          "TITLE": "添加项目符号"
+        },
+        "PAGE_2": {
+          "TITLE": "创建记忆卡片"
+        },
+        "PAGE_3": {
+          "TITLE": "使用 Tab 键结构化笔记"
+        }
+      }
+    }
+  },
   "PAGES": {
     "ALL_NOTES": {
       "SORT": {
@@ -459,7 +489,8 @@
         },
         "TEXT_TO_SPEECH_VOICE": {
           "DESCRIPTION": "用于文本转语音的声音。请注意某些声音仅适用于某些语言。",
-          "TITLE": "文本转语音"
+          "TITLE": "文本转语音",
+          "SAMPLE": "线粒体是细胞的能量工厂。"
         },
         "TEXT_TO_SPEECH_SPEED": {
           "DESCRIPTION": "朗读记忆卡片的速度",
@@ -802,24 +833,6 @@
     "VIEW_CONFIGURATION": "设置标签",
     "ADD_PROPERTY": "添加属性",
     "NEW_PROPERTY": "新属性"
-  },
-  "ONBOARDING": {
-    "SIDEBAR": {
-      "INITIAL": {
-        "PAGE_0": {
-          "TITLE": "创建文件夹"
-        },
-        "PAGE_1": {
-          "TITLE": "添加项目符号"
-        },
-        "PAGE_2": {
-          "TITLE": "创建记忆卡片"
-        },
-        "PAGE_3": {
-          "TITLE": "使用 Tab 键结构化笔记"
-        }
-      }
-    }
   },
   "COMMUNITY_NOTIFICATIONS": {
     "DOCUMENT_ADDED_TO_GROUP": {
