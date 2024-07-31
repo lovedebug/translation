@@ -55,6 +55,7 @@
         "READ": "Read Only Mode",
         "WRITE": "Edit Mode"
       },
+      "MULTI_SELECTION_MODE": "Select Multiple Rems",
       "EXPORT": "Export",
       "FIND_OR_FILTER": "Find or Filter",
       "FIND_TEXT_REFERENCES": {
@@ -72,7 +73,7 @@
       "UNDO": "Undo",
       "UNPIN_FROM_SIDEBAR": "Unpin from Sidebar",
       "UNSHARE_DOCUMENT": "Unshare Document",
-      "VIEW_GRAPH": "View Graph",
+      "VIEW_GRAPH": "View Local Graph",
       "VIEW_TRASH": "View Trash"
     },
     "PUBLISH_STATUS": {
@@ -133,16 +134,16 @@
   "ONBOARDING": {
     "SIDEBAR": {
       "INITIAL": {
-        "0": {
+        "PAGE_0": {
           "TITLE": "Create A Folder"
         },
-        "1": {
+        "PAGE_1": {
           "TITLE": "Add a Bullet"
         },
-        "2": {
+        "PAGE_2": {
           "TITLE": "Create a Flashcard"
         },
-        "3": {
+        "PAGE_3": {
           "TITLE": "Structure Notes Using Tab"
         }
       }
@@ -457,7 +458,7 @@
           "TITLE": "Reset Flashcard Settings"
         },
         "SIMPLIFIED_FLASHCARD_BUTTONS": {
-          "DESCRIPTION": "Show only “Forgot” and “Recalled With Effort” buttons for flashcards.",
+          "DESCRIPTION": "Show only “Forgot” and “Remembered” buttons for flashcards.",
           "TITLE": "Simplified Flashcard Buttons"
         },
         "STALE_CARDS_PER_DAY": {
@@ -498,7 +499,7 @@
       },
       "STATISTICS": {
         "MAXIMUM_FLASHCARD_RESPONSE_TIME": {
-          "DESCRIPTION": "Set the maximum answer time (in seconds) per card that will be counted in your statistics.",
+          "DESCRIPTION": "If you take longer to answer a flashcard than this (for instance, because you walked away for a few minutes), only this much time will be counted in your statistics.",
           "TITLE": "Flashcard Response Time Limit"
         }
       },
