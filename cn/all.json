@@ -55,6 +55,7 @@
         "READ": "只读模式",
         "WRITE": "编辑模式"
       },
+      "MULTI_SELECTION_MODE": "选择多个 Rem  ",
       "EXPORT": "导出",
       "FIND_OR_FILTER": "查找或筛选",
       "FIND_TEXT_REFERENCES": {
