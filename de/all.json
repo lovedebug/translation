@@ -695,9 +695,8 @@
     },
     "UPLOAD_SOURCE": {
       "EMPTY": "Legen Sie PDFs, Word-Dokumente, PPTs und <moreLink> mehr</moreLink> hier ab!",
-      "IMPORT_INSTEAD": "RemNote kann Datei-Uploads dieser Art nicht akzeptieren. Möglicherweise können wir die Notizen oder Karteikarten in dieser Datei jedoch importieren! Wählen Sie „Importieren“ aus dem Kontomenü oben links.",
-      "INVALID": "Falsches Dateiformat!",
       "IMPORT_INSTEAD": "RemNote kann Datei-Uploads dieses Art nicht akzeptieren. Allerdings können wir die Notizen oder Karteikarten in dieser Datei möglicherweise importieren! Wählen Sie „Importieren“ aus dem Kontomenü oben links.",
+      "INVALID": "Falsches Dateiformat!",
       "LABEL": "Hochladen",
       "PDF": "PDF",
       "PDF_WITH_COUNT_one": "{{count, number}} PDF",
