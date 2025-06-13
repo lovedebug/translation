@@ -712,6 +712,8 @@
     },
     "UPLOAD_SOURCE": {
       "EMPTY": "将 PDF、Word、PPT 以及<moreLink>更多</moreLink> 拖放到此处！",
+      "FILE_TYPES": "接受PDF、Word、PPT、XLSX、ePub以及<更多链接>更多格式</更多链接>。",
+      "PASTE_URL": "粘贴YouTube，PDF或Web URL",
       "IMPORT_INSTEAD": "RemNote 不支持此类文件上传。但是，我们或许可以导入此文件中的笔记或闪卡！请从左上角账户菜单选择“导入”",
       "INVALID": "抱歉，RemNote 不支持此类文件上传",
       "LABEL": "添加源",
@@ -728,9 +730,9 @@
       "LABEL": "录音"
     },
     "WIKIMEDIA_COMMONS": {
+      "LABEL": "图片搜索",
       "EMPTY": "将 PDF、Word、PPT 以及<moreLink>更多</moreLink>拖放到此处！",
       "INVALID": "文件格式不正确！",
-      "LABEL": "图片搜索",
       "PDF": "PDF",
       "PDF_WITH_COUNT_one": "{{count, number}} PDF",
       "PDF_WITH_COUNT_other": "{{count, number}} PDFs",
